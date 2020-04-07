@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bubbacl-43c15"
+  },
+  "targets": {
+    "bubbacl-43c15": {
+      "hosting": {
+        "my-app": [
+          "bubbacl-43c15"
+        ]
+      }
+    }
+  }
+}
